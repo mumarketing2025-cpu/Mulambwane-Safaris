@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+/* Prevent horizontal scroll on mobile */
+html, body {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+:root {
+    /* Official Mulambwane Color Palette */
+    --primary-green: #889976;      /* Primary green */
+    --accent-gold: #abba70;        /* Light green accent */
+    --earth-brown: #212022;        /* Dark charcoal */
+    --bush-green: #879677;         /* Secondary green */
+    --sunset-orange: #abb874;      /* Olive green */
+    --deep-brown: #212022;         /* Dark charcoal */
+    --cream-white: #ffffff;        /* Pure white */
+    --copper-accent: #abba70;      /* Light green highlight */
+}
